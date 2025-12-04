@@ -44,8 +44,8 @@ pip install -v -e .
 ## **Quick Start**
 ```shell
 python demo/inferencer_demo.py $IMAGE --pose2d rtmo --vis-out-dir vis_results
-*The [RTMO](https://github.com/open-mmlab/mmpose/tree/main/projects/rtmo) model was used to complete the Quick Start.
 ```
+The [RTMO](https://github.com/open-mmlab/mmpose/tree/main/projects/rtmo) model was used to complete the Quick Start.
 
 If you have any questions, please feel free to contact the writer at rkfakehd112@gmail.com.
 
