@@ -10,8 +10,8 @@
 a. Create a conda virtual environment and activate it.
 
 ```shell
-conda create -n MMPOSE python=3.8 -y
-conda activate MMPOSE
+conda create -n mmpose python=3.8 -y
+conda activate mmpose
 ```
 
 b. Install PyTorch and torchvision following the [official instructions](https://pytorch.org/), *e.g.*,
