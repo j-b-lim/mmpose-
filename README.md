@@ -53,4 +53,4 @@ I referenced the repo below for the code.
 - [MMPose Installation](https://mmpose.readthedocs.io/en/latest/installation.html).
 - [MMPose Github](https://github.com/open-mmlab/mmpose).
 
-- If you have any questions, please feel free to contact the writer at rkfakehd112@gmail.com.
+If you have any questions, please feel free to contact the writer at rkfakehd112@gmail.com.
