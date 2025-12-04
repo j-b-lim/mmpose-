@@ -34,7 +34,6 @@ mim install "mmdet>=3.0.0"
 ```
 
 d. Install required packages
-
 ```shell
 git clone https://github.com/open-mmlab/mmpose.git
 cd mmpose
@@ -43,13 +42,8 @@ pip install -v -e .
 ```
 
 ## **Quick Start**
-The pre-trained model can be found [here](https://github.com/ultralytics/yolov5). You can test the model by running the command below.
-
 ```shell
-python socket_server.py
-python client.py
-# Please run socket_server.py and client.py in separate terminal windows.
-# Make sure to start socket_server.py before running client.py.
+python demo/inferencer_demo.py $IMAGE --pose2d rtmo --vis-out-dir vis_results
 ```
 
 If you have any questions, please feel free to contact the writer at rkfakehd112@gmail.com.
@@ -57,4 +51,5 @@ If you have any questions, please feel free to contact the writer at rkfakehd112
 ## **References**
 
 I referenced the repo below for the code.
-- [YOLOv5](https://github.com/ultralytics/yolov5).
+- [MMPose Installation](https://mmpose.readthedocs.io/en/latest/installation.html).
+- [MMPose Github](https://github.com/open-mmlab/mmpose).
