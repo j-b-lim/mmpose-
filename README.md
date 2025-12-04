@@ -28,7 +28,7 @@ mim install mmengine
 mim install "mmcv>=2.0.0,<2.0.0"
 ```
 
-e. Install mmdet.
+e. Install MMDET.
 ```shell
 mim install "mmdet>=3.0.0"
 ```
